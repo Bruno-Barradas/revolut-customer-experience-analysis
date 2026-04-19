@@ -1,6 +1,12 @@
+![Revolut Cover](visuals/cover.png)
+
 # 🏦 Revolut · Customer Experience & Churn Intelligence Framework
 
 > **Independent Product & Analytics Case Study** — converting unstructured public Google Play reviews into structured retention intelligence using Python, NLP, Machine Learning, Streamlit, and Power BI.
+
+## Dashboard Preview
+
+![Dashboard](visuals/dashboard.png)
 
 <div align="center">
 
@@ -45,6 +51,13 @@ Rather than treating reviews as qualitative noise, this framework treats them as
 
 </div>
 
+## Key Insights Visualized
+
+<p align="center">
+  <img src="visuals/chart_01.png" width="300"/>
+  <img src="visuals/chart_02.png" width="300"/>
+  <img src="visuals/chart_03.png" width="300"/>
+</p>
 ---
 
 ## 🔍 Key Findings

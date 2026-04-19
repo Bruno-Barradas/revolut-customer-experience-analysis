@@ -4,6 +4,12 @@
 
 > **Independent Product & Analytics Case Study** — converting unstructured public Google Play reviews into structured retention intelligence using Python, NLP, Machine Learning, Streamlit, and Power BI.
 
+## Live Dashboard
+
+Access the interactive dashboard here:
+
+[Open Streamlit App](https://revolut-customer-experience-analysis-difpplnpm6nncgqlncejre.streamlit.app/)
+
 ## Dashboard Preview
 
 ![Dashboard](visuals/dashboard.png)
